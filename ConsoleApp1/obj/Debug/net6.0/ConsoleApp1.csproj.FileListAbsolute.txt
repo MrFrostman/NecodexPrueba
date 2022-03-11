@@ -1,0 +1,15 @@
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+J:\Progra Avanzada\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
